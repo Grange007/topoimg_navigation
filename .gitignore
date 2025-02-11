@@ -11,6 +11,9 @@ visualnav-transformer/train/gnm_dataset/*
 *.mp4
 *.gif
 
+LoFTR/
+ml-aspanformer/
+
 visualnav-transformer/deployment/model_weights/*
 visualnav-transformer/deployment/topomaps/*
 visualnav-transformer/diffusion_policy/
