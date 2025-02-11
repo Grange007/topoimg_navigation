@@ -1,0 +1,6 @@
+[submodule "ml-aspanformer"]
+	path = ml-aspanformer
+	url = https://github.com/apple/ml-aspanformer
+[submodule "LoFTR"]
+	path = LoFTR
+	url = https://github.com/zju3dv/LoFTR
